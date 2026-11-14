@@ -1,0 +1,78 @@
+{
+  "说明": "A = 不带 skill 基线，B = 带 skill。脚本只量静态可测项；观感与交付行为见 evals/README.md。",
+  "A_无skill": {
+    "成片": {
+      "duration_s": 8.0,
+      "size_bytes": 1821742,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "video_codec": "h264"
+    },
+    "工程": {
+      "html_files": [
+        "film.html",
+        "shot.html"
+      ],
+      "sections": 3,
+      "picture_clips": 1,
+      "cuts": 0,
+      "clip_starts_s": [
+        "2.6"
+      ],
+      "audio_clips": 2,
+      "visible_brand_exact_count": 0,
+      "visible_brand_old_count": 0,
+      "source_literal_exact_count": 0,
+      "source_literal_old_count": 0,
+      "motiongit_hits": 0,
+      "two_part_colours": [],
+      "css_foreground_colours": [],
+      "colours_distinct": null,
+      "brand_split_spans": 0,
+      "brand_is_editable_text": false
+    }
+  },
+  "B_带skill": {
+    "成片": {
+      "duration_s": 8.0,
+      "size_bytes": 1652583,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "video_codec": "h264"
+    },
+    "工程": {
+      "html_files": [
+        "film.html",
+        "s1.html",
+        "s2.html"
+      ],
+      "sections": 3,
+      "picture_clips": 2,
+      "cuts": 1,
+      "clip_starts_s": [
+        "3",
+        "2.6"
+      ],
+      "audio_clips": 2,
+      "visible_brand_exact_count": 1,
+      "visible_brand_old_count": 0,
+      "source_literal_exact_count": 0,
+      "source_literal_old_count": 0,
+      "motiongit_hits": 0,
+      "two_part_colours": [
+        "#FFFFFF",
+        "#9678FF"
+      ],
+      "css_foreground_colours": [
+        "#9678FF",
+        "#EDECF5",
+        "#FFFFFF"
+      ],
+      "colours_distinct": true,
+      "brand_split_spans": 1,
+      "brand_is_editable_text": true
+    }
+  }
+}
