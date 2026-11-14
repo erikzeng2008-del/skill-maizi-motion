@@ -29,7 +29,9 @@ npx openfilm skills                 # 看到 local/maizi-motion
 npx openfilm skill local/maizi-motion   # 打印整本 brief
 ```
 
-从**文件夹**安装，所以 OpenFilm 给它的全名是 `local/maizi-motion`（不是 `maizidie/...`）。没有推送到 GitHub，`openfilm.json` 里的 `repository` 是预留地址；**没有进官方 `index.json`，也不会出现在 Discover 的官方列表里**——这是本机私有 skill，符合新版「先自己用，有实测再申请索引」的规则。
+从**文件夹**安装，所以 OpenFilm 给它的全名是 `local/maizi-motion`。`openfilm.json` 的 `repository` 指向业主真实存在的 GitHub 账号 `erikzeng2008-del`（依据：MCD 大赛仓库 owner，API 查得 200），但目标新仓库 `erikzeng2008-del/skill-maizi-motion` **目前 404、尚未创建**，仓库也还没 push。
+
+**没有进官方 `index.json`，也不会出现在 Discover 的官方列表里**。双跑对照已补做，结论是「增益可见但 brief 仍需精简」，按官方 PR #5 的门槛暂不提交；申请材料（index 条目草案、PR 正文、一键脚本）在 `F:\OpenFilm_20261114\_skills\_submission_20261115\`。
 
 ## 这个仓库
 
