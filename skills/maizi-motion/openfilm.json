@@ -1,0 +1,28 @@
+{
+  "version": "0.1.1",
+  "repository": "https://github.com/erikzeng2008-del/skill-maizi-motion/tree/main/skills/maizi-motion",
+  "kind": "style",
+  "icon": "film",
+  "cover": "cover.jpg",
+  "title": {
+    "en": "MaiZI Motion brand film",
+    "zh-CN": "MaiZI Motion 品牌片",
+    "ja": "MaiZI Motion ブランド映像",
+    "ko": "MaiZI Motion 브랜드 영상",
+    "es": "Película de marca MaiZI Motion"
+  },
+  "summary": {
+    "en": "A film that unmistakably belongs to MaiZI Motion.",
+    "zh-CN": "让每条片子都一眼认得出是 MaiZI Motion。",
+    "ja": "どの映像も MaiZI Motion のものだと一目で分かるように。",
+    "ko": "모든 영상이 MaiZI Motion 것임을 한눈에 알게 합니다.",
+    "es": "Cada película se reconoce al instante como de MaiZI Motion."
+  },
+  "details": {
+    "en": "Best for: brand openings, series intros, style-library samples, replica credits.\nWhat it does: fixes the name, the two-part colour, one visible credit and the numbers to report.",
+    "zh-CN": "适合：品牌开场、系列固定片头、风格库样片、复刻片署名。\n它会：钉死品牌拼写与两段着色、只留一处可见署名、规定交付要报的数字。",
+    "ja": "用途：ブランドオープニング、シリーズの固定冒頭、作例、複製映像のクレジット。\nできること：名前と二色の表記、目に見えるクレジットを一か所、報告する数値を定めます。",
+    "ko": "추천: 브랜드 오프닝, 시리즈 고정 인트로, 스타일 샘플, 복제 영상 크레딧.\n하는 일: 이름과 두 부분 색상, 화면에 보이는 크레딧 한 곳, 보고할 수치를 정합니다.",
+    "es": "Ideal para: aperturas de marca, intros de serie, muestras y créditos de réplicas.\nQué hace: fija el nombre, el color en dos partes, un crédito visible y las cifras a reportar."
+  }
+}
